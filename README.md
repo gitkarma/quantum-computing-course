@@ -19,7 +19,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 2. [Single Qubit Operations and Circuits using Qiskit](notebooks/single_qubit.ipynb)
 3. [Multi-qubit Operations and Circuits using Qiskit](notebooks/multi_qubit.ipynb)
 4. [Entanglement and Teleportation using Qiskit](notebooks/teleportation.ipynb)
-5. [Quantum Circuits using Qiskit](notebooks/quantum_circuit.ipynb)
+5. [Quantum Circuits using Qiskit](notebooks/quantum_circuits.ipynb)
 
 ### Assignments
 
