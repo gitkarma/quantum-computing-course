@@ -11,6 +11,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 3. [Day 3](lecture_slides/day3.pdf)
 4. [Day 4](lecture_slides/day4.pdf)
 5. [Day 5](lecture_slides/day5.pdf)
+6. [Day 6](lecture_slides/day6.pdf)
 
 [Example Problems](lecture_slides/example_problems.pdf)
 
@@ -20,6 +21,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 3. [Multi-qubit Operations and Circuits using Qiskit](notebooks/multi_qubit.ipynb)
 4. [Entanglement and Teleportation using Qiskit](notebooks/teleportation.ipynb)
 5. [Quantum Circuits using Qiskit](notebooks/quantum_circuits.ipynb)
+6. [Quantum Algorithms using Qiskit](notebooks/algorithms.ipynb)
 
 ### Assignments
 
