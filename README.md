@@ -32,4 +32,4 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 
 1. [Quiz 1 Solutions](assignments/quizzes/quiz1_solutions.pdf)
 2. [Quiz 2 Solutions](assignments/quizzes/quiz2_solutions.pdf)
-3. [Quiz 3](assignments/quizzes/quiz3.pdf)
+3. [Quiz 3](assignments/quizzes/quiz3.pdf) ([Solution](assignments/quizzes/quiz3_solutions.pdf))
