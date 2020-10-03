@@ -22,6 +22,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 4. [Entanglement and Teleportation using Qiskit](notebooks/teleportation.ipynb)
 5. [Quantum Circuits using Qiskit](notebooks/quantum_circuits.ipynb)
 6. [Quantum Algorithms using Qiskit](notebooks/algorithms.ipynb)
+7. [BB84 QKD Protocol using Qiskit](notebooks/BB84.ipynb)
 
 ### Assignments
 
