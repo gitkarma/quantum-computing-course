@@ -12,6 +12,7 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 4. [Day 4](lecture_slides/day4.pdf)
 5. [Day 5](lecture_slides/day5.pdf)
 6. [Day 6](lecture_slides/day6.pdf)
+6. [Day 7](lecture_slides/day7.pdf)
 
 [Example Problems](lecture_slides/example_problems.pdf)
 
