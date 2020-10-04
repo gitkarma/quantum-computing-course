@@ -39,5 +39,5 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 1. [Quiz 1 Solutions](assignments/quizzes/quiz1_solutions.pdf)
 2. [Quiz 2 Solutions](assignments/quizzes/quiz2_solutions.pdf)
 3. [Quiz 3](assignments/quizzes/quiz3.pdf) ([Solutions](assignments/quizzes/quiz3_solutions.pdf))
-4. [Quiz 4](assignments/quizzes/quiz4.pdf)
+4. [Quiz 4](assignments/quizzes/quiz4.pdf) ([Solutions](assignments/quizzes/quiz4_solutions.pdf))
 5. [Quiz 5](assignments/quizzes/quiz5.pdf)
