@@ -24,6 +24,8 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 5. [Quantum Circuits using Qiskit](notebooks/quantum_circuits.ipynb)
 6. [Quantum Algorithms using Qiskit](notebooks/algorithms.ipynb)
 7. [BB84 QKD Protocol using Qiskit](notebooks/BB84.ipynb)
+8. [BB84 with Eavesdropping using Qiskit](notebooks/BB84_eavesdropping.ipynb)
+
 
 ### Assignments
 
